@@ -1,0 +1,13 @@
+$theme-colors: (
+  "primary": #0a65a1,
+);
+
+$body-bg: #069df4;
+$card-border-width: 0;
+$font-family-base: "Open Sans";
+
+.card {
+    position: relative;
+  }
+
+@import "~bootstrap/scss/bootstrap.scss";
